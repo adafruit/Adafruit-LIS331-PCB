@@ -1,10 +1,11 @@
-## Adafruit LIS331 Family of High-g 3-Axis Accelerometers PCB
-
+## PCB files for the Adafruit LIS331 Family of High-g 3-Axis Accelerometers
+### LIS331HH
 <a href="http://www.adafruit.com/products/4626"><img src="assets/4626.png?raw=true" width="500px"><br/>
 Click here to purchase one from the Adafruit shop</a>
-
+### H3LIS331
 <a href="http://www.adafruit.com/products/4627"><img src="assets/4627.png?raw=true" width="500px"><br/>
 Click here to purchase one from the Adafruit shop</a>
+### Links
 PCB files for the Adafruit LIS331 Family of High-g 3-Axis Accelerometers. 
 
 Format is EagleCAD schematic and board layout
